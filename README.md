@@ -17,3 +17,7 @@ pip install Flask
 ```
 
 ## DEVELOPMENT
+
+```ts
+flask run
+```
